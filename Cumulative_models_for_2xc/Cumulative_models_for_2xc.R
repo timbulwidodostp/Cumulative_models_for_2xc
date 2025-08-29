@@ -12,5 +12,4 @@ Cumulative_models_for_2xc
 # Olah Data Semarang
 # WhatsApp : +6285227746673
 # IG : @olahdatasemarang_
-
 # Finished
