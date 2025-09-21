@@ -1,7 +1,7 @@
 # Cumulative_models_for_2xc
 Cumulative logit and probit models Use Cumulative_models_for_2xc With (In) R Software
 
-Cumulative_models_for_2xc With (In) R Software
+https://www.youtube.com/watch?v=8aJu2rKXPSI
 
 Olah Data Semarang
 
