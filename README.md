@@ -1,6 +1,8 @@
 # Cumulative_models_for_2xc
 Cumulative logit and probit models Use Cumulative_models_for_2xc With (In) R Software
 
+Cumulative_models_for_2xc With (In) R Software
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
